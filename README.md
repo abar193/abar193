@@ -5,7 +5,7 @@ who hasn't signed an NDA. (That's probably for the best!)
 
 I use GitHub as a free hosting for my personal blog [https://mrabar.me/](https://mrabar.me/)
 
-You may check out my OS projects:
+You may want to check out my OS projects:
 - [Discrepancies Scanner Maven Plugin](https://github.com/abar193/discanner-maven-plugin)
 - Hackaton submission [Batman Anti Money Laundering](https://github.com/abar193/batman-aml)
 
