@@ -7,7 +7,7 @@ I use GitHub as a free hosting for my personal blog [https://mrabar.me/](https:/
 
 You may want to check out my OS projects:
 - [Discrepancies Scanner Maven Plugin](https://github.com/abar193/discanner-maven-plugin)
-- [Batman Anti Money Laundering](https://github.com/abar193/batman-aml): Hackaton submission 
+- [Batman Anti Money Laundering](https://github.com/abar193/batman-aml): Hackaton submission; (Java 11, Helidon SE, Microstream)
 - [Replayka](https://github.com/abar193/replayka): PoC for blog analytics on free hostings; (Java 17, Quarkus, QueryDSL with Github OIDC)
 
 If interested, you may reach me via [Linkedin](https://www.linkedin.com/in/mrabar/), 
